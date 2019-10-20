@@ -4,6 +4,7 @@
 - [sheetal dadhewal](https://github.com/sheetal-dadhewal) 
 - [Ankith B V](https://github.com/Ankithboggaram) 
 - [Ankith B V](https://github.com/abs99) 
+- [Renju Jose](https://github.com/renjujv)
 - [Eirik Fladmark](https://github.com/Fladmark) 
 - [Khabibullin Dinar](https://github.com/khabibd)
 - [Jonatas Duarte](https://github.com/JonatasDuarte)
